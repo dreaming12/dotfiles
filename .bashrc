@@ -20,3 +20,21 @@ man() {
 
 # autojump
 # . /usr/share/autojump.sh
+
+#
+# Aliases
+#
+
+alias erc="vim ~/.bashrc"
+alias arc="source ~/.bashrc"
+
+alias ga="git add ."
+alias gss="git status -s"
+alias gcm="git commit -m"
+alias gca="git commit --amend"
+alias gs="git switch"
+alias gb="git branch"
+alias gbr="git branch -r"
+alias gpl="git pull"
+alias gps="git push"
+alias gll="git log --oneline -10"
